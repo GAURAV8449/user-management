@@ -46,4 +46,4 @@ Open above url in web browser.
 ```bash
   npm run test
 ```
-Open above url in web browser.
+
