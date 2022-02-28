@@ -20,7 +20,7 @@ Therse are the endpoints :
 
 ```bash
 git clone https://github.com/GAURAV8449/user-management.git
-./user-management
+
 ```
 
 ### Using manual download ZIP
