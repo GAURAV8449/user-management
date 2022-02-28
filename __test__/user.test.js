@@ -142,8 +142,6 @@ it('should delete a user', function(done) {
   server
       .get('/')
       .end(function(err, res) {
-        console.log(err);
-        // console.log(res.body);
           server
               .delete('/' + res.body.data[0]._id)
               .expect(200)
