@@ -38,7 +38,7 @@ npm start
 
 ## How to Open swagger API documentation
 ```bash
-  URL: http://localhost:3000/swagger/  
+ http://localhost:3000/swagger/  
 ```
 Open above url in web browser.
 
